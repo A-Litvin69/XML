@@ -1,0 +1,8 @@
+<xml>
+  <Bug_report>
+      <ID>"1"</ID>
+      <Summary>"The 'basket' label is not displayed in the personal account"</Summary>      
+      <Steps_to_reproduce>"1. Choose a product, 2. Go to your personal account, 3. Click on the 'basket' icon"</Steps_to_reproduce>      
+      <Severity>"Сritical"</Severity>      
+      <Actual_result>"The cart icon should work"</Actual_result>      
+   </Bug_report>
